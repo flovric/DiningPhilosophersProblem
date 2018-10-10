@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PP_lab1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PP_lab1_jar</output-path>
+    <root id="archive" name="PP_lab1.jar">
+      <element id="module-output" name="PP_lab1" />
+      <element id="extracted-dir" path="C:/mpj/lib/mpi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/mpj/lib/mpj.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
